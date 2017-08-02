@@ -1,9 +1,0 @@
-This is a simple chat room build by golang.
-
-### usage:
-
-* go run server.go
-
-* go run client.go
-
-
